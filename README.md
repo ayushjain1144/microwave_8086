@@ -1,9 +1,9 @@
-#Implementation of microwave using 8086 processor
+# Implementation of microwave using 8086 processor
 
-##Problem Statement
+## Problem Statement
 System to be Designed : Microwave Oven (P5)
 
-##Description: A Simple Microwave Oven without grill.
+## Description: A Simple Microwave Oven without grill.
 
 - User can cook at 3 different Power levels: 90%, 60%, 30%
 - Press of a Power Button decrements the power level by 30 %
